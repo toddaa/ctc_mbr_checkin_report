@@ -1,0 +1,16 @@
+{
+  "name": "ctc_mbr_checkin_report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Todd <toddaa@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.346.0",
+    "moment": "^2.22.2",
+    "nodemailer": "^4.6.8"
+  }
+}
